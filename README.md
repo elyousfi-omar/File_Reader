@@ -1,4 +1,4 @@
-# File to audio
+# File Reader
 
 This function reads a pdf or a text file using pyttsx3 library. (I will add more file formats)
 In order to test the function using cmd, run the following command:
